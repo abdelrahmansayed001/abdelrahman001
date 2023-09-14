@@ -15,12 +15,12 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with SQL, Paython, git or anything related to Data Enginner.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at  to see some of the projects I've worked on.
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-sayed-929191228/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AbdelrahmanSayed" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Sayed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/abdo.aadd11" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Sayed-0077b5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
